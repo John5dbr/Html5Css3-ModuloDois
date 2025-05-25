@@ -1,0 +1,18 @@
+📝 Tags de agrupamento (grouping tags):
+
+- Sem valor semântico:
+
+   <div>		-> block
+   <span>	-> inline
+
+- Com valor semântico:
+
+  <header>		-> cabeçalho
+       <nav>	        -> para menus, links, navegação
+
+ <main>			       -> principal
+   <section>		       -> seção
+	 <article>	       -> artigo
+		 <aside>	       -> periférico ao artigo (ex: escritor / autor)
+
+ <footer>	               -> rodapé
